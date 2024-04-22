@@ -24,4 +24,5 @@ RobusPack. Al mismo tiempo dedicandome a trabajar desarollando el sitio web de L
 ![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/c2f06d0f72cc05a651f1d04b3172cef4a89a7c85/react.png) React
 <br>
 ![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/c2f06d0f72cc05a651f1d04b3172cef4a89a7c85/website.png) .Net
-
+<br>
+![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/a8ccb6a90165b813b880a12bed1058df0821fd14/git.png) Git
