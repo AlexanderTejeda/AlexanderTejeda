@@ -14,9 +14,14 @@ RobusPack. Al mismo tiempo dedicandome a trabajar desarollando el sitio web de L
 ![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/c2f06d0f72cc05a651f1d04b3172cef4a89a7c85/css.png)  CSS
 <br>
 ![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/c2f06d0f72cc05a651f1d04b3172cef4a89a7c85/js-file.png) JavaScript
+<br>
 ![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/c2f06d0f72cc05a651f1d04b3172cef4a89a7c85/ts.png) TypeScript
+<br>
 ![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/c2f06d0f72cc05a651f1d04b3172cef4a89a7c85/py.png) Python
+<br>
 ![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/c2f06d0f72cc05a651f1d04b3172cef4a89a7c85/document.png) Vue
+<br>
 ![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/c2f06d0f72cc05a651f1d04b3172cef4a89a7c85/react.png) React
+<br>
 ![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/c2f06d0f72cc05a651f1d04b3172cef4a89a7c85/website.png) .Net
 
