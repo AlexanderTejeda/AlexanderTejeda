@@ -2,3 +2,11 @@
 ### FrontEnd Developer || Jr Developer
 ### Ing. En Sistemas Computacionales
 ![https://github.com/mouredev](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/0ea05aebff54862765078927c37611d37120d892/Banner%20Trabajo.png)
+
+Soy ingeniero en sistemas computacionales enfocado en el desarrollo web.
+
+En enero de 2024 termine mis estudios con promedio casi perfecto. Desarrolle multiples proyectos de todo tipo, En mis residencias profesionales desarrolle un sistema de automatización de inventarios para la empresa
+RobusPack. Al mismo tiempo dedicandome a trabajar desarollando el sitio web de LSR Distribuidor,Dimaco,Macona y Gimacsa. 🖥️
+
+## Tecnologías:
+[![JavaScript]
