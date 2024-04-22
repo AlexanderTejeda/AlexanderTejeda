@@ -10,4 +10,11 @@ RobusPack. Al mismo tiempo dedicandome a trabajar desarollando el sitio web de L
 
 ## Tecnologías:
 ![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/d9ec7b30841027a1d6709c294fe6379bc54a0780/html.png) HTML
+![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/c2f06d0f72cc05a651f1d04b3172cef4a89a7c85/css.png)  CSS
+![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/c2f06d0f72cc05a651f1d04b3172cef4a89a7c85/js-file.png) JavaScript
+![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/c2f06d0f72cc05a651f1d04b3172cef4a89a7c85/ts.png) TypeScript
+![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/c2f06d0f72cc05a651f1d04b3172cef4a89a7c85/py.png) Python
+![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/c2f06d0f72cc05a651f1d04b3172cef4a89a7c85/document.png) Vue
+![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/c2f06d0f72cc05a651f1d04b3172cef4a89a7c85/react.png) React
+![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/c2f06d0f72cc05a651f1d04b3172cef4a89a7c85/website.png) .Net
 
