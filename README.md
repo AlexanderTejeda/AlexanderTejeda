@@ -9,4 +9,4 @@ En enero de 2024 termine mis estudios con promedio casi perfecto. Desarrolle mul
 RobusPack. Al mismo tiempo dedicandome a trabajar desarollando el sitio web de LSR Distribuidor,Dimaco,Macona y Gimacsa. 🖥️
 
 ## Tecnologías:
-[![https://github.com/AlexanderTejeda/AlexanderTejeda/blob/d9ec7b30841027a1d6709c294fe6379bc54a0780/html.png] HTML
+[![https://github.com/AlexanderTejeda/AlexanderTejeda/blob/d9ec7b30841027a1d6709c294fe6379bc54a0780/html.png]] HTML
