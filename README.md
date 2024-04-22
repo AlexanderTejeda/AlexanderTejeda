@@ -18,8 +18,6 @@ En enero de 2024 termine mis estudios con promedio casi perfecto. Desarrolle mul
 <br>
 ![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/c2f06d0f72cc05a651f1d04b3172cef4a89a7c85/py.png) Python
 <br>
-![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/c2f06d0f72cc05a651f1d04b3172cef4a89a7c85/document.png) Vue
-<br>
 ![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/c2f06d0f72cc05a651f1d04b3172cef4a89a7c85/react.png) React
 <br>
 ![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/c2f06d0f72cc05a651f1d04b3172cef4a89a7c85/website.png) .Net
