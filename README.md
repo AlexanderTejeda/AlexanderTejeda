@@ -8,7 +8,7 @@ Soy ingeniero en sistemas computacionales enfocado en el desarrollo web.
 En enero de 2024 termine mis estudios con promedio casi perfecto. Desarrolle multiples proyectos de todo tipo, En mis residencias profesionales desarrolle un sistema de automatización de inventarios para la empresa
 RobusPack. Al mismo tiempo dedicandome a trabajar desarollando el sitio web de LSR Distribuidor,Dimaco,Macona y Gimacsa. 🖥️
 
-## Tecnologías:
+## 👨‍💻 Tecnologías:
 ![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/d9ec7b30841027a1d6709c294fe6379bc54a0780/html.png) HTML
 <br>
 ![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/c2f06d0f72cc05a651f1d04b3172cef4a89a7c85/css.png)  CSS
@@ -26,3 +26,13 @@ RobusPack. Al mismo tiempo dedicandome a trabajar desarollando el sitio web de L
 ![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/c2f06d0f72cc05a651f1d04b3172cef4a89a7c85/website.png) .Net
 <br>
 ![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/a8ccb6a90165b813b880a12bed1058df0821fd14/git.png) Git
+
+## 🌎 Encuéntrame en:
+![https://www.linkedin.com/in/alexander-delgado-tejeda-b1b5b0287/](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/fbd90d2a58848d5bb54b03aad190009c4958df8a/linkedin.png) Linkedin
+<br>
+![https://www.instagram.com/a.l.e.x.d.t/](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/fbd90d2a58848d5bb54b03aad190009c4958df8a/instagram.png) Instagram
+<br>
+![https://twitter.com/DexLexDt1](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/fbd90d2a58848d5bb54b03aad190009c4958df8a/twitter.png) X
+<br>
+![https://www.facebook.com/profile.php?id=61551038185622](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/fbd90d2a58848d5bb54b03aad190009c4958df8a/facebook.png) Facebook
+
