@@ -4,8 +4,7 @@
 ![https://github.com/mouredev](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/0ea05aebff54862765078927c37611d37120d892/Banner%20Trabajo.png)
 
 Soy ingeniero en sistemas computacionales enfocado en el desarrollo web.
-
-En enero de 2024 termine mis estudios con promedio casi perfecto. Desarrolle multiples proyectos de todo tipo, En mis residencias profesionales desarrolle un sistema de automatización de inventarios. Al mismo tiempo dedicandome a trabajar desarollando el sitio web de un conjunto de empresas 🖥️
+En enero de 2024 termine mis estudios con promedio casi perfecto. Desarrolle múltiples proyectos de todo tipo, En mis residencias profesionales desarrolle un sistema de automatización de inventarios. Al mismo tiempo dedicándome a trabajar desarrollando el sitio web de un conjunto de empresas 🖥️
 
 ## 👨‍💻 Tecnologías:
 ![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/d9ec7b30841027a1d6709c294fe6379bc54a0780/html.png) HTML
