@@ -25,11 +25,10 @@ En enero de 2024 termine mis estudios con promedio casi perfecto. Desarrolle mú
 
 ## 🌎 Encuéntrame en:
 
-[![Linkedin](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/fbd90d2a58848d5bb54b03aad190009c4958df8a/linkedin.png)](https://www.linkedin.com/in/alexander-delgado-tejeda-b1b5b0287/) Linkedin &nbsp;&nbsp;&nbsp;
+[![Linkedin](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/fbd90d2a58848d5bb54b03aad190009c4958df8a/linkedin.png)](https://www.linkedin.com/in/alexander-delgado-tejeda-b1b5b0287/) Linkedin 
 
-![https://www.instagram.com/a.l.e.x.d.t/](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/fbd90d2a58848d5bb54b03aad190009c4958df8a/instagram.png) Instagram &nbsp;&nbsp;&nbsp;
+[![Instagram](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/fbd90d2a58848d5bb54b03aad190009c4958df8a/instagram.png)](https://www.instagram.com/a.l.e.x.d.t/) Instagram 
 
-![https://twitter.com/DexLexDt1](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/fbd90d2a58848d5bb54b03aad190009c4958df8a/twitter.png) X &nbsp;&nbsp;&nbsp;
+[![Twitter](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/fbd90d2a58848d5bb54b03aad190009c4958df8a/twitter.png)](https://twitter.com/DexLexDt1) X 
 
-![https://www.facebook.com/profile.php?id=61551038185622](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/fbd90d2a58848d5bb54b03aad190009c4958df8a/facebook.png) Facebook &nbsp;&nbsp;&nbsp;
-
+[![Tiktok]()](https://www.tiktok.com/@a.l.e.x.d.t0) TikTok
