@@ -24,7 +24,8 @@ En enero de 2024 termine mis estudios con promedio casi perfecto. Desarrolle mú
 ![](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/a8ccb6a90165b813b880a12bed1058df0821fd14/git.png) Git
 
 ## 🌎 Encuéntrame en:
-![https://www.linkedin.com/in/alexander-delgado-tejeda-b1b5b0287/](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/fbd90d2a58848d5bb54b03aad190009c4958df8a/linkedin.png) Linkedin &nbsp;&nbsp;&nbsp;
+
+[![Linkedin](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/fbd90d2a58848d5bb54b03aad190009c4958df8a/linkedin.png)](https://www.linkedin.com/in/alexander-delgado-tejeda-b1b5b0287/) Linkedin &nbsp;&nbsp;&nbsp;
 
 ![https://www.instagram.com/a.l.e.x.d.t/](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/fbd90d2a58848d5bb54b03aad190009c4958df8a/instagram.png) Instagram &nbsp;&nbsp;&nbsp;
 
