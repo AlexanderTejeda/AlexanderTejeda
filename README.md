@@ -1,5 +1,5 @@
 # ![https://www.linkedin.com/in/alexander-delgado-tejeda-b1b5b0287/](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/c6634ad58581e8da2584cde85812550cb608b1b8/programming1.png) Hola, mi nombre es Alexander Tejeda 👋
-### FrontEnd Developer || Jr Developer
+### Web Developer || Jr Developer
 ### Ing. En Sistemas Computacionales
 ![https://github.com/mouredev](https://github.com/AlexanderTejeda/AlexanderTejeda/blob/62e23e3babf135268d9e507a92cc569cbe338564/Proyecto%20nuevo.jpg)
 
