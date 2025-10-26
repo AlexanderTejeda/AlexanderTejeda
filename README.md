@@ -45,7 +45,7 @@ Cuento con experiencia como **desarrollador full stack**, especializado en **Rea
 
 ## 🌟 Proyecto Actual — **Virex**
 
-> 💡 *Fundador y Desarrollador Principal*  
+> 💡 *Co-Fundador y Desarrollador Principal*  
 **Virex** es una empresa tecnológica enfocada en **desarrollo de software, automatización e inteligencia artificial aplicada**.  
 Creando soluciones accesibles y escalables para negocios que buscan digitalizar sus procesos.  
 
@@ -73,13 +73,13 @@ Creando soluciones accesibles y escalables para negocios que buscan digitalizar 
 ## 🌐 Encuéntrame en
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/alexander-delgado-tejeda-b1b5b0287/" target="_blank">
+  <a href="https://www.linkedin.com/in/alexdtejeda/" target="_blank">
     <img src="./Icons/linkedin1.png" width="32" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/a.l.e.x.d.t/" target="_blank">
+  <a href="https://www.instagram.com/alexdtejeda/" target="_blank">
     <img src="./Icons/instagram%20(1).png" width="32" alt="Instagram"/>
   </a>
-  <a href="https://twitter.com/DexLexDt1" target="_blank">
+  <a href="https://x.com/alexdtejeda" target="_blank">
     <img src="./Icons/twitter.png" width="32" alt="Twitter"/>
   </a>
 </p>
@@ -96,9 +96,7 @@ Creando soluciones accesibles y escalables para negocios que buscan digitalizar 
 
 ## 📈 GitHub Stats
 
-![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderDelgadoTejeda&show_icons=true&theme=tokyonight&count_private=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderDelgadoTejeda&layout=compact&theme=tokyonight)  
+![Alexander's Virex](https://virex.com.mx/)  
 
 ---
 
