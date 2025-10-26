@@ -1,6 +1,6 @@
 # Alexander Delgado Tejeda 
 
-![Portada](./Images/Proyecto%20nuevo.jpg)
+![Portada](./Images/Banner.jpg)
 
 ## Web Developer | Jr Developer | Software Engineer
 
