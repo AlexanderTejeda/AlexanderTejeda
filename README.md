@@ -18,11 +18,9 @@ Cuento con experiencia como **desarrollador full stack**, especializado en **Rea
 ## ⚙️ Tecnologías y Herramientas
 
 **Frontend:** HTML · CSS · JavaScript · React · Vite  
-**Backend:** Node.js · C# · .NET  
-**Móvil:** Dart · Flutter  
-**Bases de Datos:** PostgreSQL  
-**Herramientas:** Git · Swagger · Postman  
-**Otros:** Python · PHP · Bootstrap · WordPress · Elementor · Qt (C++)  
+**Backend:** Node.js · Express · Python · Flask
+**Bases de Datos:** PostgreSQL, FireBase, MongoDB  
+**Herramientas:** Git · Postman  
 
 ---
 
@@ -96,7 +94,7 @@ Creando soluciones accesibles y escalables para negocios que buscan digitalizar 
 
 ## 📈 Virex
 
-![Virex](https://virex.com.mx/)  
+[Virex](https://virex.com.mx/)  
 
 ---
 
