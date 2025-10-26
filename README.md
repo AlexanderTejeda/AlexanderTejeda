@@ -3,7 +3,6 @@
 # 👨‍💻 Alexander Delgado Tejeda
 ### *Full Stack Developer | Web Developer | Software Engineer*
 
-📍 Bellavista, San Isidro – Cuautitlán Izcalli, México  
 📧 [alexanderd.tejeda.08@gmail.com](mailto:alexanderd.tejeda.08@gmail.com) · 📱 +52 55 8384 5009  
 
 ---
