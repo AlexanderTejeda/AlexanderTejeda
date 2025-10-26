@@ -94,9 +94,9 @@ Creando soluciones accesibles y escalables para negocios que buscan digitalizar 
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Virex
 
-![Alexander's Virex](https://virex.com.mx/)  
+![Virex](https://virex.com.mx/)  
 
 ---
 
