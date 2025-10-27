@@ -5,7 +5,7 @@
 
 📧 [alexanderd.tejeda.08@gmail.com](mailto:alexanderd.tejeda.08@gmail.com) · 📱 +52 55 8384 5009  
 
-🌐 [Mi Portafolio](https://portfolio-alexander-tejedas-projects.vercel.app/)  
+🌐 <a href="https://portfolio-alexander-tejedas-projects.vercel.app/" target="_blank">Mi Portafolio</a>  
 
 ---
 
