@@ -73,6 +73,7 @@ Antes de especializarme en e-commerce trabajé como **desarrollador full stack**
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| [ClipsModel](https://github.com/AlexanderTejeda/ClipsModel) | Sistema de clipping con IA: detecta, valida y exporta los mejores momentos de videos largos para Shorts/TikTok/Reels (100% local, -70% tiempo de edición) | Python · Whisper · Ollama · ffmpeg |
 | [LifeOs](https://github.com/AlexanderTejeda/LifeOs) | Sistema personal de control de vida: finanzas, hábitos y salud | TypeScript · Node.js · Express · Prisma · PostgreSQL |
 | [Portfolio](https://github.com/AlexanderTejeda/portfolio) | Mi portafolio personal — [verlo en vivo](https://portfolio-alpha-orcin-69.vercel.app/) | React · Vite |
 | [YouTube Downloader](https://github.com/AlexanderTejeda/youtube-downloader) | Herramienta de descarga de video | Java |
@@ -112,7 +113,7 @@ Antes de especializarme en e-commerce trabajé como **desarrollador full stack**
 **Canal de Videojuegos [alexdtejeda](https://www.youtube.com/@alexdtejeda)** — *Entretenimiento* | 📆 Noviembre 2025 – Presente
 - Gestión completa del ciclo de contenido: guion, producción, edición y miniaturas.
 - **+151,300 vistas en YouTube** y **+70,500 reproducciones en Instagram** en 30 días (últimos 90 días de crecimiento).
-- Desarrollé un **sistema automatizado de clipping** que recorta y optimiza fragmentos de directos para formato vertical, reduciendo el tiempo de edición manual en un **70%**.
+- Desarrollé [ClipsModel](https://github.com/AlexanderTejeda/ClipsModel), un **sistema automatizado de clipping con IA** que recorta y optimiza fragmentos de directos para formato vertical, reduciendo el tiempo de edición manual en un **70%**.
 
 ---
 
