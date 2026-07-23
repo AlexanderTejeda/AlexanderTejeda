@@ -1,147 +1,250 @@
-![Portada](./Images/Banner.jpg)
+<div align="center">
 
-# 👨‍💻 Alexander Delgado Tejeda
-### *Shopify Developer & CRO Specialist | Full Stack Developer | AI & Automation*
+![Alexander Delgado Tejeda — Software Engineer & Full-Stack Developer](./Images/Banner.jpg)
 
-📧 [alexanderd.tejeda.08@gmail.com](mailto:alexanderd.tejeda.08@gmail.com) · 📱 +52 55 8384 5009
-📍 Cuautitlán Izcalli, Estado de México
+# Hola, soy Alexander Delgado Tejeda 👋
 
-🌐 <a href="https://portfolio-alpha-orcin-69.vercel.app/" target="_blank">Mi Portafolio</a> · 🎬 <a href="https://www.youtube.com/@alexanderdtejeda" target="_blank">YouTube</a>
+### Software Engineer · Full-Stack Developer · Shopify & E-commerce
 
----
+Construyo productos web, sistemas internos y automatizaciones que convierten  
+necesidades de negocio en soluciones funcionales, mantenibles y orientadas a resultados.
 
-## 💡 Sobre mí
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D8FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-alexander-tejedas-projects.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexdtejeda/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexanderTejeda)
+[![Email](https://img.shields.io/badge/Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexanderd.tejeda.08@gmail.com)
 
-¡Hola! 👋 Soy **Alexander Delgado Tejeda**, Ingeniero en Sistemas Computacionales enfocado en **e-commerce, CRO (optimización de conversión) y automatización con IA**.
+![Ubicación](https://img.shields.io/badge/Cuautitlán_Izcalli,_México-0D1117?style=flat-square&logo=googlemaps&logoColor=00D8FF)
+![Disponibilidad](https://img.shields.io/badge/Remoto_·_Híbrido_·_Presencial-0D1117?style=flat-square&logo=checkmarx&logoColor=00D8FF)
+![Inglés](https://img.shields.io/badge/Inglés-Intermedio-0D1117?style=flat-square&logo=googletranslate&logoColor=00D8FF)
 
-Actualmente trabajo como **Shopify Developer & CRO en Weecom**, donde audito y optimizo tiendas Shopify: desarrollo secciones a medida en Liquid, diseño propuestas de A/B testing y transformo datos de comportamiento en mejoras medibles de conversión.
-
-Antes de especializarme en e-commerce trabajé como **desarrollador full stack** (React, Node.js, PostgreSQL), construyendo desde sistemas de gestión de inventarios hasta chatbots y microservicios. Esa base de ingeniería es la que hoy me permite unir **desarrollo, datos y negocio** en un mismo perfil.
-
----
-
-## ⚙️ Tecnologías y Herramientas
-
-**E-commerce & CRO:** Shopify · Liquid · A/B Testing · SEO técnico · Analítica web · WordPress
-**Frontend:** HTML5 · CSS3 · JavaScript (ES6+) · TypeScript · React · Vite
-**Backend:** Node.js · Express · Python · C# · REST APIs · Microservicios
-**Bases de Datos:** PostgreSQL · Prisma · MongoDB · Firebase
-**IA & Automatización:** Integración de LLMs en procesos operativos · Chatbots · Bots y flujos automatizados
-**Otros:** Dart/Flutter · Qt C++ · PHP · Bootstrap
-**Herramientas:** Git · GitHub · Figma · Postman · CI/CD · DaVinci Resolve · Photoshop
+</div>
 
 ---
 
-## 🚀 Experiencia Profesional
+## `01. Perfil profesional`
 
-**Weecom** — *CRO & Shopify Developer*
-📍 Remoto / México | 📆 Abril 2026 – Actualidad
-- Optimización, desarrollo y personalización de **tiendas Shopify** para marcas de e-commerce.
-- Implementación de mejoras visuales, funcionales y de conversión dentro de temas Shopify con **Liquid, HTML, CSS y JavaScript**: secciones personalizadas, páginas de producto, colecciones, banners, menús, carritos, cart drawers y configuraciones responsive.
-- Traducción de **diseños en Figma a Shopify**, cuidando la fidelidad del diseño y la experiencia en desktop y mobile.
-- Integración y configuración de herramientas de e-commerce: **bundles, reseñas, suscripciones, rewards** y funcionalidades orientadas a mejorar la conversión.
-- **Auditorías CRO** y propuestas de A/B testing basadas en datos para tiendas activas.
+Soy **Ingeniero en Sistemas Computacionales** y desarrollador full stack con experiencia construyendo software en contextos muy distintos: producto interno, consultoría enterprise y e-commerce activo.
 
-**Softtek** — *Software Engineer / Front-End Developer*
-📍 Remoto, México | 📆 Noviembre 2025 – Febrero 2026
-- Desarrollador front-end principal en un **proyecto para Walmart**: implementación, mantenimiento y evolución de interfaces web en un entorno empresarial de alto nivel.
-- Desarrollo de componentes front-end, **integración con servicios back-end**, corrección de bugs y soporte a despliegues.
-- Colaboré en flujos de entrega y despliegue con herramientas internas de Walmart (**WCNP, KITT, Concord, Looper, GitOps/ChatOps**) y pipelines de **CI/CD**.
+He desarrollado interfaces con **React**, APIs y automatizaciones con **Node.js, C# y Python**, soluciones respaldadas por **PostgreSQL**, además de experiencias de compra sobre **Shopify Liquid**. También he participado en aplicaciones móviles con Flutter, sistemas de almacén en Qt/C++ y flujos corporativos con Azure, CI/CD y GitOps.
 
-**Slim Company** — *Programador Full Stack*
-📍 Cuautitlán Izcalli, México | 📆 Abril 2024 – Julio 2025
-- Desarrollé un **sistema de facturación electrónica** con C# (APIs documentadas con Swagger) y frontend en React + Vite.
-- Implementé un **sistema de gestión de productos y análisis de competencia** para Mercado Libre y otros e-commerce (React + Vite, Node.js).
-- Mantenimiento y desarrollo del **WMS (Warehouse Management System)** de almacén en Qt C++, resolviendo errores de stock y descuadres.
-- Creé una **app móvil Android en Dart + Flutter** para visualización de productos en almacén con escaneo de códigos.
-- Construí **microservicios, chatbots y bots automatizados** sobre PostgreSQL, reduciendo errores operativos.
+Mi mayor fortaleza es conectar tres mundos que normalmente viven separados:
 
-**LSR Distribuidor** — *Desarrollador Web*
-📍 Naucalpan, México | 📆 Septiembre 2023 – Abril 2024
-- Desarrollé **4 sitios web** con WordPress, CSS y Elementor.
-- Mantenimiento preventivo y correctivo de equipos, **cableado estructurado** y configuración de sistemas.
-- Administración de **correos empresariales** y conexión en red de equipos con servidores.
+```text
+               ┌─────────────────┐
+               │   NECESIDAD DE  │
+               │     NEGOCIO     │
+               └────────┬────────┘
+                        │
+           ┌────────────┼────────────┐
+           ▼            ▼            ▼
+     EXPERIENCIA     INGENIERÍA    RESULTADOS
+      DE USUARIO     DE SOFTWARE    MEDIBLES
+           └────────────┼────────────┘
+                        ▼
+              PRODUCTOS QUE FUNCIONAN
+```
 
-**Robuspack** — *Programador Full Stack (Prácticas)*
-📍 Remoto — Querétaro, México | 📆 Agosto 2023 – Enero 2024
-- Integrante del equipo de desarrollo del **sistema automatizado de inventarios** para el área de almacén y costos.
-- Diseño e implementación de soluciones para optimizar la gestión de inventarios con **PHP, HTML, Bootstrap y JavaScript**.
+> No me interesa utilizar tecnología por moda. Me interesa entender el problema, elegir bien las herramientas y entregar una solución que aporte valor.
 
 ---
 
-## 🌟 Proyectos Destacados
+## `02. Lo que hago`
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| [ClipsModel](https://github.com/AlexanderTejeda/ClipsModel) | Sistema de clipping con IA: detecta, valida y exporta los mejores momentos de videos largos para Shorts/TikTok/Reels (100% local, -70% tiempo de edición) | Python · Whisper · Ollama · ffmpeg |
-| [LifeOs](https://github.com/AlexanderTejeda/LifeOs) | Sistema personal de control de vida: finanzas, hábitos y salud | TypeScript · Node.js · Express · Prisma · PostgreSQL |
-| [Portfolio](https://github.com/AlexanderTejeda/portfolio) | Mi portafolio personal — [verlo en vivo](https://portfolio-alpha-orcin-69.vercel.app/) | React · Vite |
-| [YouTube Downloader](https://github.com/AlexanderTejeda/youtube-downloader) | Herramienta de descarga de video | Java |
-| [Chatbot Demo](https://github.com/AlexanderTejeda/chatbot-demo) | Demo de chatbot conversacional | JavaScript · CSS |
-| [Data Scrapper](https://github.com/AlexanderTejeda/data_scrapper) | Script de web scraping | JavaScript |
-
----
-
-## 📜 Certificaciones
-
-- 🤖 **Desarrollo con IA: Programa con Agentes** — BIG school / mouredev (2026)
-- 🏅 **Scrum Fundamentals Certified** — SCRUMstudy (2026)
-- 🌐 **CCNAv7: Introducción a Redes** — Cisco Networking Academy (2022)
-- 🌐 **CCNAv7: Switching, Routing and Wireless Essentials** — Cisco Networking Academy (2022)
-- 🌐 **CCNAv7: Redes Empresariales, Seguridad y Automatización** — Cisco Networking Academy (2023)
-- 🔒 **Cybersecurity Essentials** — Cisco Networking Academy (2023)
-- 🎨 **HTML desde Cero · CSS desde Cero · Animaciones en CSS** — midudev Academy (2025)
-- 🛠️ **Ultimate Git + GitHub · HTML5 y CSS3 sin fronteras** — (2024)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🧩 Desarrollo Full Stack</h3>
+      <p>Aplicaciones web completas, APIs REST, sistemas internos, autenticación, modelado de datos e integraciones.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛒 Shopify & E-commerce</h3>
+      <p>Themes, secciones, componentes, carritos, integraciones y experimentos orientados a mejorar la conversión.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚡ Automatización</h3>
+      <p>Microservicios, bots, chatbots y herramientas con IA para reducir trabajo manual y optimizar procesos.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎓 Educación
+## `03. Stack profesional`
 
-**Tecnológico de Estudios Superiores de Cuautitlán Izcalli**
-📍 Ingeniería en Sistemas Computacionales | Julio 2019 – Febrero 2024
+<div align="center">
 
-**CONALEP Ing. Bernardo Quintana Arrioja**
-📍 Técnico en Informática | Julio 2016 – Marzo 2019
+### Frontend
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify_Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
-## 🎬 Creación de Contenido
+### Backend, datos y APIs
 
-**Canal de Programación "Alexander Tejeda"** — *Contenido Educativo*
-- Tutoriales y proyectos prácticos en **Python, JavaScript, React y automatización** para nuevos programadores.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-**Canal de Videojuegos [alexdtejeda](https://www.youtube.com/@alexdtejeda)** — *Entretenimiento* | 📆 Noviembre 2025 – Presente
-- Gestión completa del ciclo de contenido: guion, producción, edición y miniaturas.
-- **+151,300 vistas en YouTube** y **+70,500 reproducciones en Instagram** en 30 días (últimos 90 días de crecimiento).
-- Desarrollé [ClipsModel](https://github.com/AlexanderTejeda/ClipsModel), un **sistema automatizado de clipping con IA** que recorta y optimiza fragmentos de directos para formato vertical, reduciendo el tiempo de edición manual en un **70%**.
+### Entrega, herramientas y otras plataformas
 
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![C++](https://img.shields.io/badge/Qt_·_C++-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
-## 🧠 Idiomas y Habilidades
-
-- **Inglés:** Nivel intermedio (B1/B2) — lectura y redacción de documentación técnica.
-- **Adaptabilidad:** Aprendo rápido y selecciono la tecnología adecuada según cada proyecto.
-- **Comunicación:** Trabajo en equipo y liderazgo de proyectos con visión técnica y estratégica.
-
----
-
-## 🌐 Encuéntrame en
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/alexdtejeda/" target="_blank">
-    <img src="./Icons/linkedin1.png" width="32" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/alexdtejeda/" target="_blank">
-    <img src="./Icons/instagram%20(1).png" width="32" alt="Instagram"/>
-  </a>
-  <a href="https://x.com/alexdtejeda" target="_blank">
-    <img src="./Icons/twitter.png" width="32" alt="Twitter"/>
-  </a>
-</p>
+</div>
 
 ---
 
-## ✉️ Contacto
+## `04. Experiencia profesional`
 
-Si te interesa colaborar o conocer más sobre mi trabajo:
-📧 [alexanderd.tejeda.08@gmail.com](mailto:alexanderd.tejeda.08@gmail.com)
+### 🟢 Weecom — CRO & Shopify Developer
+
+`Abril 2026 — Actualidad` · Remoto, México
+
+- Desarrollo y personalización de themes, secciones y componentes con **Liquid, JavaScript, HTML y CSS**.
+- Implementación de propuestas de **Figma** con fidelidad visual y adaptación responsive.
+- Optimización de páginas de producto, colecciones, navegación, carritos, promociones e integraciones.
+- Análisis de métricas y experimentos **A/B**, coordinando mejoras técnicas y de conversión para múltiples marcas.
+
+### 🔵 Softtek — Software Engineer / Front-End Developer
+
+`Noviembre 2025 — Febrero 2026` · Remoto, México
+
+- Participación en una plataforma interna para **Walmart**, desarrollando y manteniendo interfaces con React.
+- Creación de componentes reutilizables e integración con servicios REST construidos con Spring Boot.
+- Corrección de incidencias, validación de funcionalidades y soporte a despliegues.
+- Colaboración con backend, QA y desarrollo mediante **Git, Azure, CI/CD y GitOps**.
+
+### 🟣 Slim Company — Desarrollador Full Stack
+
+`Abril 2024 — Julio 2025` · Cuautitlán Izcalli, México
+
+- Sistema de facturación electrónica con APIs en **C# + Swagger** y frontend en **React + Vite**.
+- Plataforma de gestión de productos y análisis de competencia con **React, Node.js y PostgreSQL**.
+- Mantenimiento de un WMS en **Qt/C++** y desarrollo de una aplicación móvil con **Flutter**.
+- Construcción de microservicios, chatbots y automatizaciones para procesos e integraciones internas.
+
+<details>
+  <summary><strong>Ver experiencia adicional</strong></summary>
+  <br />
+
+  **LSR Distribuidor — Desarrollador Web y Soporte TI**  
+  `Septiembre 2023 — Abril 2024`
+
+  Desarrollo de cuatro sitios empresariales con WordPress, Elementor, HTML y CSS; administración de correos, redes y equipos.
+
+  **Robuspack — Desarrollador Full Stack, prácticas profesionales**  
+  `Agosto 2023 — Enero 2024`
+
+  Participación en un sistema interno de inventarios utilizando PHP, JavaScript, HTML, CSS y Bootstrap.
+</details>
+
+---
+
+## `05. Proyectos destacados`
+
+<table>
+  <tr>
+    <th>Proyecto</th>
+    <th>Qué resuelve</th>
+    <th>Tecnologías</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AlexanderTejeda/LifeOs"><strong>LifeOS</strong></a></td>
+    <td>Sistema full stack para centralizar finanzas, hábitos, actividad física y organización personal.</td>
+    <td>React · Node.js · Express · PostgreSQL · Prisma</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AlexanderTejeda/ClipsModel"><strong>ClipsModel</strong></a></td>
+    <td>Identifica, recorta y adapta momentos de videos largos, reduciendo aproximadamente 70% del trabajo de edición manual.</td>
+    <td>Python · Whisper · Ollama · FFmpeg</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AlexanderTejeda/portfolio"><strong>Portfolio</strong></a></td>
+    <td>Experiencia interactiva para presentar proyectos, trayectoria y certificaciones profesionales.</td>
+    <td>React · Vite · Framer Motion</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AlexanderTejeda/monde-challenge"><strong>Monde Challenge</strong></a></td>
+    <td>Tienda web con carrito dinámico y flujo de pago simulado.</td>
+    <td>React · Firebase · JavaScript</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AlexanderTejeda/data_scrapper"><strong>Data Scrapper</strong></a></td>
+    <td>Recopila publicaciones de Hacker News y las presenta en una interfaz web moderna.</td>
+    <td>Python · Flask · React</td>
+  </tr>
+</table>
+
+<div align="center">
+
+[![Explorar repositorios](https://img.shields.io/badge/Explorar_todos_mis_repositorios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexanderTejeda?tab=repositories)
+
+</div>
+
+---
+
+## `06. Formación y certificaciones`
+
+🎓 **Ingeniería en Sistemas Computacionales**  
+Tecnológico de Estudios Superiores de Cuautitlán Izcalli · `2019 — 2024`
+
+🎓 **Técnico en Informática**  
+CONALEP Ing. Bernardo Quintana Arrioja · `2016 — 2019`
+
+### Formación continua
+
+- **Desarrollo con IA: Programa con Agentes** — BIG School / MoureDev, 2026
+- **Curso Intensivo de Model Context Protocol** — midudev, 2026
+- **Scrum Fundamentals Certified** — SCRUMstudy, 2026
+- **CCNAv7: Introducción a Redes** — Cisco Networking Academy, 2022
+- **CCNAv7: Switching, Routing & Wireless Essentials** — Cisco Networking Academy, 2022
+- **CCNAv7: Redes Empresariales, Seguridad y Automatización** — Cisco Networking Academy, 2023
+- **Cybersecurity Essentials** — Cisco Networking Academy, 2022
+
+---
+
+## `07. Cómo trabajo`
+
+```javascript
+const alexander = {
+  enfoque: ["producto", "calidad", "negocio"],
+  fortalezas: [
+    "adaptación rápida",
+    "visión full stack",
+    "resolución de problemas",
+    "comunicación entre áreas"
+  ],
+  actualmente: {
+    construyendo: "experiencias e-commerce y proyectos full stack",
+    profundizando: ["TypeScript", "arquitectura", "Docker", "CI/CD"],
+    objetivo: "crear software útil, mantenible y con impacto medible"
+  }
+};
+```
+
+---
+
+<div align="center">
+
+## ¿Construimos algo que valga la pena?
+
+Estoy abierto a colaborar en productos web, plataformas internas, e-commerce y automatización.
+
+[![Escríbeme](https://img.shields.io/badge/Escríbeme_por_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexanderd.tejeda.08@gmail.com)
+[![Conectemos](https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexdtejeda/)
+
+<sub>Hecho con café, curiosidad y obsesión por resolver problemas ☕</sub>
+
+</div>
